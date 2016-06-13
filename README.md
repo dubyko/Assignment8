@@ -1,2 +1,2 @@
 # Assignment8
-拜助教之賜，本次作業只需將前次LAB實作的計算機加入助教所提供的SocketSample中，並且新增和更改result_page.xml和activity_main.xml兩個layout，以及回傳給server計算機所算出的結果，即可順利完成作業要求。
+
